@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HEAD
 # Jekyll-Bootstrap
 
@@ -49,3 +50,7 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 DingWu.github.io
 ================
 94a0e98b794233acd86898c57d49a4c3ec9ca092
+=======
+DingWu.github.io
+================
+>>>>>>> 94a0e98b794233acd86898c57d49a4c3ec9ca092
